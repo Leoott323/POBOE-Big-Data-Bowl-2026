@@ -2574,8 +2574,8 @@ animate_play_pobe <- function(game_id_sel, play_id_sel, out_path = NULL, fps = 1
 }
 
 animate_play_pobe(
-  2023110505,
-  1540,
+  2023112000,
+  4207,
   out_path = "leo.gif",
   fps = 12
 )
@@ -2679,7 +2679,7 @@ animate_xgb_prob <- function(game_id_sel, play_id_sel, fps = 12, out_path = NULL
 }
 
 # Example usage
-animate_xgb_prob(2023110505, 1540, fps = 12, out_path = "xgb_prob.gif")
+animate_xgb_prob(2023112000, 4207, fps = 12, out_path = "xgb_prob.gif")
 ######## End: POBOE animation, don't delete ########
 
 ######## Start: Top CB's and SAF's by POBOE, don't delete ########
